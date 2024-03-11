@@ -2,4 +2,4 @@
 
 Term 2 Python Project -
 
-Machine Learning models used to craete an app which could classify the genre of music if we upload it in this.
+My role was a Team Member for the project where Machine Learning models used to craete an app which could classify the genre of music if we upload it in this.
